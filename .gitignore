@@ -1,0 +1,10 @@
+log/*.log
+tmp/*
+tmp/**/*
+dov/api
+dic/app
+db/*.sqlite3
+*.swp
+*wp
+*~
+.DS_Store
